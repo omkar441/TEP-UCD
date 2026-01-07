@@ -4,7 +4,7 @@
 **Version:** v0.1 (New Delhi)  
 **Date:** First published: 28 December 2025 · Last updated: 28 December 2025  
 **DOI:** 10.5281/zenodo.18064366  
-**Generated:** 2026-01-03  
+**Generated:** 2026-01-07  
 **Paper Series:** TEP-UCD Paper 7 (Universal Critical Density)
 
 ---
@@ -1331,31 +1331,6 @@ Olausen, S. A., & Kaspi, V. M. 2014, *ApJS*, 212, 6 (DOI: 10.1088/0067-0049/212/
 ![Comprehensive Screening Analysis](site/figures/figure_6_ultimate_screening.png)
 
             Figure 7: Comprehensive Screening Analysis. (A) Mass-density phase space spanning 60 orders of magnitude. (B) Empirical Vainshtein law: $S \propto \rho^{0.334}$. (C) Screening hierarchy and regime separation across densities. (D) Cross-regime consistency with the universal density $\rho_c \approx 20$ g/cm³.
-
-        [← Home](/)
-        
-### TEP Research Series
-
-        - [Temporal Equivalence Principle: Dynamic Time & Emergent Light Speed 18 Aug 2025](/tep/theory/)
-
-        - [Global Time Echoes: Distance-Structured Correlations in GNSS Clocks 17 Sep 2025](/tep/gnss-i/)
-
-        - [25-Year Temporal Evolution of Distance-Structured Correlations in GNSS 3 Nov 2025](/tep/gnss-ii/)
-
-        - [Global Time Echoes: Raw RINEX Validation 17 Dec 2025](/tep/gnss-iii/)
-
-        - [Temporal-Spatial Coupling in Gravitational Lensing 19 Dec 2025](/tep/gl/)
-
-        - [Global Time Echoes: Empirical Validation of TEP 21 Dec 2025](/tep/gte/)
-
-        - [Universal Critical Density: Unifying Atomic, Galactic, and Compact Object Scales 28 Dec 2025](/tep/ucd/)
-
-        - [The Soliton Wake: Identifying RBH-1 as a Gravitational Soliton 28 Dec 2025](/tep/rbh/)
-
-        - [Global Time Echoes: Optical Validation of TEP via Satellite Laser Ranging 30 Dec 2025](/tep/slr/)
-
-        ← Previous
-        Next →
 
 ---
 
