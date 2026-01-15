@@ -22,13 +22,55 @@ Galactic-scale validation comes from the SPARC rotation curve database (175 gala
 
 The saturation density ρ_c ≈ 20 g/cm³ is proposed as a physical organizing parameter, supported by consistency across multiple mass and density scales (proton to galaxy cluster; cosmological voids to neutron stars).
 
-## Key Results
+## Summary of Key Results and Findings
 
-- **Terrestrial Calibration (GNSS):** L_c ≈ 4200 km → ρ_c ≈ 20 g/cm³
-- **Atomic Constraint:** Bohr radius consistency yields ρ_c ~ 10–50 g/cm³
-- **Galactic Validation:** SPARC scaling α = 0.354 ± 0.014 (M^(1/3) prediction)
-- **Screening Hierarchy:** S ∝ ρ^0.334 (R² = 0.9999) across 26 objects
-- **Magnetar Test:** P_crit ≈ 6.8 s prediction vs 1E 2259+586 at P = 6.98 s
+### Primary Results Table
+
+| Metric | Value | Uncertainty | Significance |
+|--------|-------|-------------|--------------|
+| **Universal Critical Density (ρ_c)** | ~20 g/cm³ | — | Cross-scale calibration |
+| **GNSS Correlation Length** | 4,200 km | ± 1,967 km | Terrestrial calibration |
+| **Screening Hierarchy R²** | 0.9999 | 26 objects | 15 orders of magnitude |
+
+### Multi-Scale Calibration
+
+| Scale | Observable | Value | Consistency |
+|-------|------------|-------|-------------|
+| **Terrestrial (GNSS)** | Correlation length | L_c ≈ 4,200 km → ρ_c ≈ 20 g/cm³ | 25-year stability |
+| **Atomic (Bohr radius)** | Soliton constraint | ρ_c ~ 10–50 g/cm³ | Consistent |
+| **Galactic (SPARC)** | Onset scaling | α = 0.354 ± 0.014 | M^(1/3) prediction within 2σ |
+| **Compact Objects** | Screening parameter | S ∝ ρ^0.334 | R² = 0.9999 |
+
+### SPARC Rotation Curve Analysis
+
+| Parameter | Value | Prediction | Status |
+|-----------|-------|------------|--------|
+| **Sample Size** | 175 galaxies | — | SPARC database |
+| **Empirical Scaling Exponent** | α = 0.354 ± 0.014 | 0.333 (M^1/3) | Consistent within 2σ |
+| **Dark Matter Onset** | R ∝ M^α | R ∝ M^(1/3) | Matches ρ_c prediction |
+
+### Screening Hierarchy (26 Objects)
+
+| Object Class | Density Range | Screening (S) | Notes |
+|--------------|--------------|---------------|-------|
+| **Cosmological Voids** | ~10⁻³⁰ g/cm³ | Minimal | Unscreened |
+| **Galaxy Clusters** | ~10⁻²⁷ g/cm³ | Low | Partially screened |
+| **Milky Way** | ~10⁻²⁴ g/cm³ | Moderate | Keplerian transition |
+| **Earth** | ~5.5 g/cm³ | Near ρ_c | Transition regime |
+| **Neutron Stars** | ~10¹⁴ g/cm³ | Maximal | Fully screened |
+
+### Magnetar Anti-Glitch Test
+
+| Observable | Predicted | Observed | Status |
+|------------|-----------|----------|--------|
+| **Critical Period (1.4 M☉)** | P_crit ≈ 6.8 s | 1E 2259+586: P = 6.98 s | ✓ Consistent |
+| **SGR 1935+2154** | ~7 s | ~3.2 s (glitch at ~7 s substructure) | Under investigation |
+
+### Key Interpretation
+
+The universal critical density ρ_c ≈ 20 g/cm³ emerges as a fundamental organizing parameter across 15 orders of magnitude in density—from cosmological voids to neutron stars. The terrestrial calibration from GNSS (L_c ≈ 4,200 km) provides an independent anchor that agrees with atomic-scale constraints (Bohr radius consistency) and galactic-scale observations (SPARC rotation curves). The screening hierarchy (S ∝ ρ^0.334, R² = 0.9999) confirms the predicted ρ^(1/3) dependence, explaining why precision GR tests pass locally while cosmological anomalies persist. The magnetar anti-glitch at P ≈ 7 s provides a dramatic prediction: soliton collapse triggers sudden spin-down at the critical period.
+
+---
 
 ## The TEP Research Program
  
